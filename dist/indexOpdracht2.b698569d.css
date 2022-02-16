@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#input-field {
+    width: 250px;
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+
+
+}
+
+#search-button {
+    color: black;
+    width: 70px;
+    background-color: #bdecb6;
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.world-bol{
+    width: 1000px;
+    align-content: center;
+}
+/*# sourceMappingURL=indexOpdracht2.b698569d.css.map */

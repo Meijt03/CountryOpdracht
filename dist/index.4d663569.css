@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-family: Broadway;
+}
+#country-facts {
+    list-style: none;
+    column-count: 3;
+    max-width: 1000px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    padding: 30px;
+}
+.flag {
+    width: 35px;
+}
+
+.Blue {
+    color: blue;
+}
+.Green {
+    color: green;
+}
+.Red {
+    color: red;
+}
+.Yellow {
+    color: yellow;
+}
+.Purple {
+    color: purple;
+}
+/*# sourceMappingURL=index.4d663569.css.map */
